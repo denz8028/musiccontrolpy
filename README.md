@@ -1,4 +1,4 @@
-# Musiccoutrolpy
+# Musiccontrolpy
 Simple music controlling script for android using adb and keyboard module
 
 # Requirements:
