@@ -12,8 +12,9 @@ Simple music controlling script for android using adb and keyboard module
 2. Press ctrl+shift+f to next track
 3. Press ctrl+shift+g to prev track
 
+
 # Current tasks:
-1. Displaying track name in notifications on pc
+1. Displaying track name (did in cli) in notifications on pc (wip)
 2. When the first point is completed, I wanna do some integrations as in spotify\
 e.g now playing.
 
